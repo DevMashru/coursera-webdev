@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: darkgrey;
+}
+
+.navbar {
+	background-color: aqua;
+}
+
+.navbar .navbar-brand {
+	font-size: 3em;
+	margin: 15px;
+}
+
+#collapsable-nav a {
+	color: black;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+.content {
+	background-color: burlywood;
+	font-size: 1.5em;
+	border: 1px solid black;
+	padding: 15px;
+	margin: 10px;
+}
